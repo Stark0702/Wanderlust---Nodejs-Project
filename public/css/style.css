@@ -125,7 +125,12 @@ body {
   padding-left: 0;
   padding-right: 0;
 }
-
+@media (max-width: 768px) {
+  .starability-result {
+    min-width: 720px;
+    display: none;
+  }
+}
 /* //map */
 
 #map {
