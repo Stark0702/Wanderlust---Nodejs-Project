@@ -12,7 +12,7 @@
 
 > Airbnb clone made using NodeJS, EcpressJs, MongDB.
 
-### 🏠 [Homepage](/listings)
+### 🏠 [Homepage](https://wanderlust-nodejs-project.onrender.com/listings)
 
 ### ✨ [Demo](https://wanderlust-nodejs-project.onrender.com/listings)
 
@@ -42,12 +42,12 @@ npm run test
 
 👤 **Kashyap Patel**
 
-* Twitter: [@Kashyap_0702](https://twitter.com/Kashyap_0702)
-* Github: [@Stark0702](https://github.com/Stark0702)
-* LinkedIn: [@Kashyap Patel](www.linkedin.com/in/kashyap-patel-542427222)
+- Twitter: [@Kashyap_0702](https://twitter.com/Kashyap_0702)
+- Github: [@Stark0702](https://github.com/Stark0702)
+- LinkedIn: [@Kashyap Patel](www.linkedin.com/in/kashyap-patel-542427222)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
