@@ -125,6 +125,12 @@ body {
   padding-left: 0;
   padding-right: 0;
 }
+
+#map {
+  height: 400px;
+  width: 80vh;
+}
+
 @media (max-width: 768px) {
   .starability-result {
     min-width: 720px;
@@ -132,8 +138,3 @@ body {
   }
 }
 /* //map */
-
-#map {
-  height: 400px;
-  width: 80vh;
-}

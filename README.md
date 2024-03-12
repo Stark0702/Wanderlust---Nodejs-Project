@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> Airbnb clone made using NodeJS, EcpressJs, MongDB.
+> Airbnb clone made using NodeJS, ExpressJs, MongDB.
 
 ### 🏠 [Homepage](https://wanderlust-nodejs-project.onrender.com/listings)
 
@@ -44,7 +44,7 @@ npm run test
 
 - Twitter: [@Kashyap_0702](https://twitter.com/Kashyap_0702)
 - Github: [@Stark0702](https://github.com/Stark0702)
-- LinkedIn: [@Kashyap Patel](www.linkedin.com/in/kashyap-patel-542427222)
+- LinkedIn: [@Kashyap Patel](https://www.linkedin.com/in/kashyap-patel-542427222)
 
 ## Show your support
 
